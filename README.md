@@ -30,5 +30,5 @@ Support for token and fiat transaction fees
 Overall, ERC-4337 spells a smoother and more user-friendly crypto wallet experience.
 
 # Resources
-[ERC-4337 Specification]: (https://eips.ethereum.org/EIPS/eip-4337)
+ https://eips.ethereum.org/EIPS/eip-4337 
 
